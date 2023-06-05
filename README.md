@@ -1,4 +1,4 @@
-[![MasterHead](banner.jpg)](https://github.com/MachadoOtto/MachadoOtto)
+[![MasterHead](assets/banner.jpg)](https://github.com/MachadoOtto/MachadoOtto)
 
 ### 👋 Welcome to my GitHub profile! 
 
@@ -9,3 +9,9 @@
 🚀 On this platform, you'll find a collection of my projects, contributions, and tools geared towards improving penetration testing techniques. Join me in exploring the ever-evolving world of cybersecurity and let's strengthen our defenses together! 🛡️🌐
 
 🌟 Let's connect and collaborate to make the digital world a safer place! 🤝
+
+## 🛠 My skills include
+<img title="KaliLinux" alt="KaliLinux" src="https://raw.githubusercontent.com/MachadoOtto/MachadoOtto/master/assets/kali.png" width="70" height="40" style="vertical-align:down; margin:4px"/>
+<img title="BurpSuite" alt="BurpSuite" src="https://raw.githubusercontent.com/MachadoOtto/MachadoOtto/master/assets/burpsuite.png" width="80" height="50" style="vertical-align:down; margin:4px"/>
+<img title="Metasploit" alt="Metasploit" src="https://raw.githubusercontent.com/MachadoOtto/MachadoOtto/master/assets/metasploit.svg" width="60" height="40" style="vertical-align:down; margin:4px"/>
+	
