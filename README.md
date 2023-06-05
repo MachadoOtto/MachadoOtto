@@ -11,7 +11,10 @@
 🌟 Let's connect and collaborate to make the digital world a safer place! 🤝
 
 ## 🛠 My skills include
-<img title="KaliLinux" alt="KaliLinux" src="https://raw.githubusercontent.com/MachadoOtto/MachadoOtto/master/assets/kali.png" width="70" height="40" style="vertical-align:down; margin:4px"/>
-<img title="BurpSuite" alt="BurpSuite" src="https://raw.githubusercontent.com/MachadoOtto/MachadoOtto/master/assets/burpsuite.png" width="80" height="50" style="vertical-align:down; margin:4px"/>
-<img title="Metasploit" alt="Metasploit" src="https://raw.githubusercontent.com/MachadoOtto/MachadoOtto/master/assets/metasploit.svg" width="60" height="40" style="vertical-align:down; margin:4px"/>
+<p align="left">
+    <img title="KaliLinux" alt="KaliLinux" src="https://raw.githubusercontent.com/MachadoOtto/MachadoOtto/master/assets/kali.png" width="50" height="50" style="vertical-align:down; margin:4px"/>
+    <img title="BurpSuite" alt="BurpSuite" src="https://raw.githubusercontent.com/MachadoOtto/MachadoOtto/master/assets/burpsuite.png" width="50" height="50" style="vertical-align:down; margin:4px"/>
+    <img title="Metasploit" alt="Metasploit" src="https://raw.githubusercontent.com/MachadoOtto/MachadoOtto/master/assets/metasploit.svg" width="50" height="50" style="vertical-align:down; margin:4px"/>
+</p>
+
 	
