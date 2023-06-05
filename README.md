@@ -1,4 +1,4 @@
-[![MasterHead](assets/banner.png)](https://github.com/MachadoOtto/MachadoOtto)
+[![MasterHead](banner.png)](https://github.com/MachadoOtto/MachadoOtto)
 
 ### 👋 Welcome to my GitHub profile! 
 
