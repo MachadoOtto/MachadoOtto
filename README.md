@@ -13,8 +13,15 @@
 ## 🛠 My skills include
 <p align="left">
     <img title="KaliLinux" alt="KaliLinux" src="https://raw.githubusercontent.com/MachadoOtto/MachadoOtto/master/assets/kali.png" width="50" height="50" style="vertical-align:down; margin:4px"/>
-    <img title="BurpSuite" alt="BurpSuite" src="https://raw.githubusercontent.com/MachadoOtto/MachadoOtto/master/assets/burpsuite.png" width="50" height="50" style="vertical-align:down; margin:4px"/>
+    <img title="BurpSuite" alt="BurpSuite" src="https://raw.githubusercontent.com/MachadoOtto/MachadoOtto/master/assets/burpsuite.svg" width="50" height="50" style="vertical-align:down; margin:4px"/>
     <img title="Metasploit" alt="Metasploit" src="https://raw.githubusercontent.com/MachadoOtto/MachadoOtto/master/assets/metasploit.svg" width="50" height="50" style="vertical-align:down; margin:4px"/>
+    <img title="VSCode" alt="VSCode" src="https://raw.githubusercontent.com/MachadoOtto/MachadoOtto/master/assets/vscode.png" width="50" height="50" style="vertical-align:down; margin:4px"/>
+    <img title="Bash" alt="Bash" src="https://raw.githubusercontent.com/MachadoOtto/MachadoOtto/master/assets/bash.png" width="50" height="50" style="vertical-align:down; margin:4px"/>
+    <img title="Python" alt="Python" src="https://raw.githubusercontent.com/MachadoOtto/MachadoOtto/master/assets/python.png" width="50" height="50" style="vertical-align:down; margin:4px"/>
+    <img title="JavaScript" alt="JavaScript" src="https://raw.githubusercontent.com/MachadoOtto/MachadoOtto/master/assets/javascript.png" width="50" height="50" style="vertical-align:down; margin:4px"/>
+    <img title="HTML" alt="HTML" src="https://raw.githubusercontent.com/MachadoOtto/MachadoOtto/master/assets/html.png" width="50" height="50" style="vertical-align:down; margin:4px"/>
+    <img title="NodeJS" alt="NodeJS" src="https://raw.githubusercontent.com/MachadoOtto/MachadoOtto/master/assets/nodejs.png" width="50" height="50" style="vertical-align:down; margin:4px"/>
+    <img title="React" alt="React" src="https://raw.githubusercontent.com/MachadoOtto/MachadoOtto/master/assets/react.png" width="50" height="50" style="vertical-align:down; margin:4px"/>
 </p>
 
 	
