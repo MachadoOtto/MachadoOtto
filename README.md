@@ -22,11 +22,10 @@
     <img title="HTML" alt="HTML" src="https://raw.githubusercontent.com/MachadoOtto/MachadoOtto/master/assets/html.png" width="50" height="50" style="vertical-align:down; margin:4px"/>
     <img title="NodeJS" alt="NodeJS" src="https://raw.githubusercontent.com/MachadoOtto/MachadoOtto/master/assets/nodejs.png" width="50" height="50" style="vertical-align:down; margin:4px"/>
     <img title="React" alt="React" src="https://raw.githubusercontent.com/MachadoOtto/MachadoOtto/master/assets/react.png" width="50" height="50" style="vertical-align:down; margin:4px"/>
-    <img title="ExpressJS" alt="ExpressJS" src="https://raw.githubusercontent.com/MachadoOtto/MachadoOtto/master/assets/expressjs.png" width="50" height="50" style="vertical-align:down; margin:4px"/>
     <img title="MongoDB" alt="MongoDB" src="https://raw.githubusercontent.com/MachadoOtto/MachadoOtto/master/assets/mongodb.png" width="50" height="50" style="vertical-align:down; margin:4px"/>
 </p>
 
 ## 🔍 Find me on
 <p align="left">
-    <a href="https://www.linkedin.com/in/jorgemachadoottonelli/" target="_blank"><img tittle="LinkedIn" alt="LinkedIn" src="https://raw.githubusercontent.com/MachadoOtto/MachadoOtto/master/assets/linkedin.png" width="50" height="50" style="vertical-align:down; margin:4px"/></a>
+    <a href="https://www.linkedin.com/in/jorgemachadoottonelli/" target="_blank"><img tittle="LinkedIn" alt="LinkedIn" src="https://raw.githubusercontent.com/MachadoOtto/MachadoOtto/master/assets/linkedin.webp" width="50" height="50" style="vertical-align:down; margin:4px"/></a>
 </p>
